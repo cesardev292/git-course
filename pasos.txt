@@ -7,3 +7,19 @@ git init
 git status
 
 git add pasos.txt
+
+git commit
+
+git config --global user.email "cesaragapito29@gmail.com"
+
+git config --global user.name "Cesar"
+
+mi primer commit
+
+:wq
+
+git log
+
+git checkout -- pasos.txt (vuelve a rehacer lo anterior)
+
+git diff pasos.txt
