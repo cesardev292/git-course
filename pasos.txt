@@ -1,0 +1,9 @@
+pwd
+
+ls
+
+git init
+
+git status
+
+git add pasos.txt
